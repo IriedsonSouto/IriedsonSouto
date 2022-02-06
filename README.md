@@ -1,4 +1,4 @@
-<h1>E aí povo, me chamo Iriedson e é um prazer lhes ver por aqui!! 🧙‍♂️</h1> 
+<h1>Hi there, is nice to see you around here!! 🧙‍♂️</h1> 
 <div> 
   <a href="https://www.youtube.com/channel/UCMDkQEurzPXSQrZgWFZFEcg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iriedsonsouto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,16 +7,17 @@
 </div>
 <p>
 <div class=informacoes>
-  <h3>Descrição:</h3>
+  <h3>Description:</h3>
     <dl>
-      <dt>Sobre:</dt>
-        <dd>Atualmente um estudante curioso 🔭</dd>
-        <dd>Ele/dele 😄</dd>
-      <dt>Formação:</dt>
-        <dd>Licenciatura Plena em Matemática (UEPB) ✅</dd>
-        <dd>Análise e Desenvolvimento de Sistemas (IFPB) 🔄</dd>
-      <dt>Competencias e habilidades:</dt>
-        <dd>Com enfase em Java tenho conhecimento nas linguagens e tecnologias<br> a seguir: Javascript, HTML, CSS, React, Node.js, Git, SQL, Python.
+      <dt>About:</dt>
+        <dd>I'm from Brazil 📫</dd>
+        <dd>Currently a curious student 🔭</dd>
+        <dd>He/His 😄</dd>
+      <dt>Academic education:</dt>
+        <dd>Full Degree in Mathematics (UEPB) ✅</dd>
+        <dd>Studying Analysis and Systems Development  (IFPB) 🔄</dd>
+      <dt>Languages and tools:</dt>
+        <dd>Knowledge in: Java, Javascript, HTML, CSS, React, Node.js, Git, SQL, Python.
       </dd>
     </dl>
 <div align="center"><br>
