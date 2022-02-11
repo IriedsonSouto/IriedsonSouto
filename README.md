@@ -22,7 +22,7 @@
     </dl>
 <div align="center"><br>
   <a href="https://github.com/IriedsonSouto/IriedsonSouto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IriedsonSouto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width"260em" src="https://github-readme-stats.vercel.app/api?username=IriedsonSouto&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IriedsonSouto&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div align="center" style="display: inline_block">
