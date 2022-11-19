@@ -18,7 +18,10 @@
         <dd>Full Degree in Mathematics (UEPB) ✅</dd>
         <dd>Studying Analysis and Systems Development  (IFPB) 🔄</dd>
       <dt><h3>Languages and tools:</h3></dt>
-        <dd>Knowledge in: Java, Javascript, HTML, CSS, React, Node.js, Git, SQL, Python 🛠.
+        <dd>  
+          <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,html,css,mysql,postgres,mongodb&theme=light" />
+          </a>
       </dd>
     </dl>
 <div align="center"><br>
