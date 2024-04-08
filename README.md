@@ -16,7 +16,8 @@
         <dd>He/His 😄</dd>
       <dt><h3>Academic education:</h3></dt>
         <dd>Full Degree in Mathematics (UEPB) ✅</dd>
-        <dd>Studying Analysis and Systems Development  (IFPB) 🔄</dd>
+        <dd>Studying Analysis and Systems Development  (IFPB) ✅</dd>
+        <dd>Postgraduate in Computer Science  (UFCG) 🔄</dd>
       <dt><h3>Languages and tools:</h3></dt>
         <dd>  
           <a href="https://skillicons.dev">
